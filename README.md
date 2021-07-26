@@ -11,7 +11,7 @@
 
 
 <h4 align="center"> 
-	🚧 Drag and Drop - Concluído 🚀 🚧
+	🚧 Clock Analogig and Digital - Concluído 🚀 🚧
 </h4>
 
 
